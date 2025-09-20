@@ -32,7 +32,7 @@
     <!-- Light mode -->
     <source srcset="assets/top-langs-light.png" media="(prefers-color-scheme: light)" />
     <!-- Default (if none applies) -->
-    <img src="assets/top-langs-dark.png" alt="Top Languages" width="290"/>
+    <img src="assets/top-langs-dark.png" alt="Top Languages" width="320"/>
   </picture>
 </p>
 
