@@ -1,9 +1,5 @@
------------------------------------------------------------------------------------------------------------------------------------------------
-
 <h1 align="center">Hi 👋, I'm Dipanjan Chowdhury</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
-
------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💫 About Me:
 🔭 I’m currently working on: **EMS for Small Business - A Full-Stack Employee Management System (React, Flask, MySQL)**
@@ -45,8 +41,6 @@
     <img src="assets/top-langs-dark.png" alt="Top Languages" width="320"/>
   </picture>
 </p>
-
------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![](https://visitcount.itsvg.in/api?id=Dipanjan932000&icon=0&color=0)](https://visitcount.itsvg.in)
 
