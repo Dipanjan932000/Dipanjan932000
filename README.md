@@ -46,16 +46,31 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Most Used Languages:
-<p align="left">
-  <picture>
+<!-- <p align="left"> -->
+  <!-- <picture> -->
     <!-- Dark mode -->
     <source srcset="assets/top-langs-dark.png" media="(prefers-color-scheme: dark)" />
     <!-- Light mode -->
     <source srcset="assets/top-langs-light.png" media="(prefers-color-scheme: light)" />
     <!-- Default (if none applies) -->
     <img src="assets/top-langs-dark.png" alt="Top Languages" width="320"/>
-  </picture>
-</p>
+  <!-- </picture> -->
+<!-- </p> -->
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan932000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan932000&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan932000&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Top Languages"
+  />
+</picture>
 
 [![](https://visitcount.itsvg.in/api?id=Dipanjan932000&icon=0&color=0)](https://visitcount.itsvg.in)
 
